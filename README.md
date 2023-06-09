@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
