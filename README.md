@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Move Explorer tests to scheduled CI (#8305)
