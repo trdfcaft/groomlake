@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Docs partial mdformat improvements (#7378)
