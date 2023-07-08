@@ -1,1 +1,1 @@
-ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
+fix for predicting with batch_size > 1 (#47)
