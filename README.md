@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
