@@ -1,1 +1,1 @@
-YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
