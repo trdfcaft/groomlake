@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
