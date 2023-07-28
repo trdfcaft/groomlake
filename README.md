@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Fix TypeError in check_cfg() (#9245)
