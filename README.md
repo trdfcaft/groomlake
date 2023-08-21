@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+fix for KeyError: 'epoch' (#48)
