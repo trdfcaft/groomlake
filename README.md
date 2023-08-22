@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Modify tuner best.pt logic to train first (#8792)
