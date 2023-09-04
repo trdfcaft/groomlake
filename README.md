@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Rename model_id to model.id (#8447)
