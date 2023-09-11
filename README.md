@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Allow Annotator PIL.Image inputs (#8397)
