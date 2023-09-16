@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Add Amazon Sagemaker Docs integrations page (#7293)
