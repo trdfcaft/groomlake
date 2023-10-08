@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add YOLOv8 LibTorch C++ inference example (#7090)
