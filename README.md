@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Add visuals in guides/distance-calculation.md (#7876)
