@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Merge pull request #22 from SkalskiP/patch-1
