@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Python refactorings and simplifications (#7549)
