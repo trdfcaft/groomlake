@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Update CI.md with CI links (#8786)
