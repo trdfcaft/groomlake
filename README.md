@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Update Docs language dropdown height (#6927)
