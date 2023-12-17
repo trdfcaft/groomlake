@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
