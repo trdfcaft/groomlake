@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Add Amazon Sagemaker Docs integrations page (#7293)
