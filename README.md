@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
