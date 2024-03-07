@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Fix test_mlflow_keep_run_active() (#8868)
