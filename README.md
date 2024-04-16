@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
