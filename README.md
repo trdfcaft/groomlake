@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Add yolo_bbox2segment docs reference (#7751)
