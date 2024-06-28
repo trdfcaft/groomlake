@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
