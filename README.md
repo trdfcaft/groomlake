@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Fix Multi-GPU resume bug (#7328)
