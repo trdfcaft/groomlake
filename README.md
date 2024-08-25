@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
