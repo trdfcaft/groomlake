@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
