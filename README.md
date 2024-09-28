@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
