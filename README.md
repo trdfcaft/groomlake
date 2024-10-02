@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
