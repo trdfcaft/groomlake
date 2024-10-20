@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
