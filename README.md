@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
