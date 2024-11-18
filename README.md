@@ -1,1 +1,1 @@
-Fix test_mlflow_keep_run_active() (#8868)
+Improve Coral Edge TPU guide (#8160)
