@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Model typehints Docker fix (#8306)
